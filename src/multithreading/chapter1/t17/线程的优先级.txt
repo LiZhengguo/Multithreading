@@ -1,0 +1,3 @@
+设置线程的优先级使用 setPriority()方法0
+Java中线程的优先级分为 1~10  10 个等级   小于1或者超出10  会抛出异常
+throw new IllegalArgumentException();
